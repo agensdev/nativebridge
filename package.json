@@ -1,0 +1,25 @@
+{
+  "name": "nativebridge",
+  "version": "0.0.0",
+  "description": "npm package for interacting with native NT app via web interface",
+  "main": "nativebridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agensdev/nativebridge.git"
+  },
+  "keywords": [
+    "native",
+    "ios",
+    "android",
+    "norsk-tipping"
+  ],
+  "author": "Agens AS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agensdev/nativebridge/issues"
+  },
+  "homepage": "https://github.com/agensdev/nativebridge#readme"
+}
