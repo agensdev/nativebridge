@@ -20,8 +20,8 @@ import {nativebridge as nb} from './nativebridge.js'
 const exitButton = document.createElement("Button");
 const loginButton = document.createElement("Button");
 
-loginButton.onclick= function(e){
-    nb.requestLogin()
+loginButton.onclick= async function(e){
+    let token = await nb.requestLogin()
 }
 
 exitButton.onclick = function(e){
