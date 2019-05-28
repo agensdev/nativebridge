@@ -5,11 +5,11 @@ Standardises communication between native apps (android and ios) and web applica
 ## Install
 
 ```
-$ npm install git+https://github.com/agensdev/nativebridge.git#draft
+$ npm install git+https://github.com/agensdev/nativebridge.git
 
 // if you need ssh
 
-$ npm install ssh+https://github.com/agensdev/nativebridge.git#draft
+$ npm install ssh+https://github.com/agensdev/nativebridge.git
 ```
 
 ## Usage
